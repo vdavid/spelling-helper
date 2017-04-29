@@ -1,0 +1,8 @@
+.Application {
+    text-align: left;
+    width: 600px;
+    padding: 20px;
+    border-left: 5px solid gray;
+    border-right: 5px solid gray;
+    margin: 20px auto;
+}
